@@ -2,9 +2,7 @@
 
 Hey! I'm Khalil A human being who loves gaming,movies and cats !  
 
-I'm also a laureate of master Intelligent Processing Systems where I studied Data science.
-
-Presently, I hold the position of Test Analyst at Capgemini Morocco, where I contribute to ensuring top-notch software quality.
+Presently, I hold the position of Test Automation Engineer at Cafeyn, where I contribute to ensuring top-notch software quality.
 
 I'm currently learning web development by following the odin project curicculum.
 
