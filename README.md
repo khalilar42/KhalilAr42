@@ -4,8 +4,6 @@ Hey! I'm Khalil A human being who loves gaming,movies and cats !
 
 Presently, I hold the position of Test Automation Engineer at Cafeyn, where I contribute to ensuring top-notch software quality.
 
-I'm currently learning web development by following the odin project curicculum.
-
 Feel Free to contact me at : khalilarchkak@gmail.com.
 
 ## - Languages and Tools:
@@ -15,7 +13,6 @@ Feel Free to contact me at : khalilarchkak@gmail.com.
 [<img align="left" alt="Selenium logo" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />]((https://www.selenium.dev/))
 [<img align="left" alt="HTML5 logo" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />]((https://developer.mozilla.org/fr/docs/Web/HTML))
 [<img align="left" alt="CSS3 logo" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />]((https://developer.mozilla.org/fr/docs/Web/CSS))
-[<img align="left" alt="Javascript logo" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />]((https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
 <br>
 
